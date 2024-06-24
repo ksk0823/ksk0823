@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://github.com/ksk0823/ksk0823/main/github_Title.png?raw=true"/>
+  <img src="https://github.com/ksk0823/ksk0823/blob/main/github_Title.png?raw=true"/>
 </div>
 
 ## 안녕하세요 김수경입니다. 👋
-
 
 <!--
 **ksk0823/ksk0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
