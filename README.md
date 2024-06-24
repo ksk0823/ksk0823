@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="[https://github.com/ksk0823/ksk0823/github_Title.png](https://github.com/ksk0823/ksk0823/blob/main/github_Title.png?raw=true)" />
+  <img src="https://github.com/ksk0823/ksk0823/github_Title.png" />
 </div>
 
 
