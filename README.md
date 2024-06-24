@@ -4,7 +4,7 @@
 
 ## 안녕하세요 김수경입니다. 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksk0823&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksk0823&hide_progress=true&theme=rose_pin)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksk0823&hide=contribs,prs&show_icons=true&theme=rose_pine)
 
 ## 주요 Repositories
