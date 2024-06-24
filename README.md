@@ -4,8 +4,11 @@
 
 ## 안녕하세요 김수경입니다. 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksk0823)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksk0823&hide_progress=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksk0823&hide=contribs,prs&show_icons=true&theme=rose_pine)
+
+## 주요 Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksk0823&repo=MDMerge)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ksk0823/ksk0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
