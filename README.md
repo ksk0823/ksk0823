@@ -3,7 +3,7 @@
 </div>
 
 ## 안녕하세요 김수경입니다. 👋
-- 게임 클라이언트와 서버에 관심 있습니다.
+- 네트워크 보안에 관심 있습니다.
 - [Konkuk Univ. CSE 21st](https://cse.konkuk.ac.kr)
 - [Portfolio](https://tidal-owl-6fd.notion.site/0dafe4b637254318ad910e3a7d28d509?pvs=4)
 - **machine0823@naver.com**
