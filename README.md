@@ -5,7 +5,7 @@
 ## 안녕하세요 김수경입니다. 👋
 - 네트워크 보안에 관심 있습니다.
 - [Konkuk Univ. CSE 21st](https://cse.konkuk.ac.kr)
-- [Portfolio](https://tidal-owl-6fd.notion.site/0dafe4b637254318ad910e3a7d28d509?pvs=4)
+- [Portfolio](https://tidal-owl-6fd.notion.site/6f39e86fb90682fbbf5e01f8a1763a7b?source=copy_link)
 - **machine0823@naver.com**
 
 ### Languages & Tools 💬
@@ -23,9 +23,10 @@
 - `2021.03 ~` 건국대학교 컴퓨터공학부 재학
 
 ### **Activity** 🔥
-- `2023.09 ~` 건국대학교 게임 제작 동아리 EDGE 12.5기 가입
+- `2025.12 ~ 2026.07` SK쉴더스 루키즈 30기 생성형 AI 활용 사이버보안 과정 수료
+- `2023.09` 건국대학교 게임 제작 동아리 EDGE 12.5기 가입
 - `2024.03 ~ 2024.05` EDGE Unity 스터디 튜터
-- `2024.03 ~` EDGE 운영진 (개발부) 활동
+- `2024.03 ~ 2025.02` EDGE 운영진 (개발부장) 활동
 
 ### Status ⚡
 <br>
